@@ -13,7 +13,7 @@ function read(text) {
     speech.text = "assalamualaikum I am your voice assistance Alexa. ";
   } else if (text == "what is my name") {
     speech.text = "Your name is Maruf";
-  } else if (text == "How are you") {
+  } else if (text == "how are you") {
     speech.text = "I am Fine. And you?";
   } else if (text == "I am fine") {
     speech.text = "Very good";
